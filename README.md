@@ -1,6 +1,6 @@
 # NISQAI
 
-A Python/Matlab toolkit for quantum neural networks. Please read the [project proposal](proposal/nisqai.pdf) for detailed information about NISQAI.
+A Python/Matlab toolkit for quantum neural networks. For an overview of our idea, please watch this short [YouTube Video](). For more detailed information, please read our [project proposal](proposal/nisqai.pdf).
 
 # Developers
 
