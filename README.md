@@ -8,9 +8,7 @@ NISQAI is currently in development. The [examples](examples/) folder contains in
 
 We're happy to accept your contributions. To do so, follow these instructions:
 
-1. Fork the development repository `rmlarose/nisqai-dev`:
-
-```git clone https://github.com/rmlarose/nisqai-dev```
+1. Fork the development repository `rmlarose/nisqai-dev`.
 
 1. CD into the directory with setup.py:
 
